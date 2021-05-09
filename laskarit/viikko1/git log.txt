@@ -1,0 +1,96 @@
+commit 71c6db96eee9c0c92ab74767dac982a09ff5d8db
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 23:43:41 2021 +0300
+
+    ja ne tuhoamiset kans
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 163e339a457cb2be2c2f1448a36aad71e5b5aeac
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 23:41:45 2021 +0300
+
+    poistoja ja uudelleen nime├ñmisi├ñ
+
+ tiedostoja/file22.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 73eaa568df1907dab399f90766607d904a2e60f4
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 23:34:41 2021 +0300
+
+    lis├ñtty tiedosoja-kansio
+
+ eka.txt              | 10 +---------
+ tiedosto3.txt        |  4 +++-
+ tiedostoja/file1.txt |  0
+ tiedostoja/file2.txt |  0
+ tiedostoja/file3.txt |  0
+ tiedostoja/file4.txt |  0
+ 6 files changed, 4 insertions(+), 10 deletions(-)
+
+commit 7ff0bd09ccdf36e3958c89844fadea3ad2605dfc
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 14:02:31 2021 +0300
+
+    Tiedoston uudelleennime├ñminen
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c69f17523bc4ced140cb3d6c990bd2254662b115
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 13:58:17 2021 +0300
+
+    Poistettu turha tiedosto2.txt
+
+ tiedosto2.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1344ae59f6e58ba002cc4474988dec726325d234
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 13:55:19 2021 +0300
+
+    Poistettu r├ñk├ñteksti, lis├ñttu nettisivulta varastettu.
+
+ tiedosto.txt | 574 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 572 insertions(+), 2 deletions(-)
+
+commit 66381feaf28ea7347f9043f6bcd1b83831f0fc5c
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 13:28:35 2021 +0300
+
+    Stuff-kansion lis├ñys
+
+ stuff/tiedosto4.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1bbb1d4fa8f25e3d8e8c3698eac35fece84b5c2a
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 13:26:29 2021 +0300
+
+    Taas uusi file
+
+ tiedosto3.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 763c5b0d01cf93c1d06afa10a4b744bd55c3f7e2
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 13:18:01 2021 +0300
+
+    muutos ja lis├ñys
+
+ tiedosto.txt  | 3 ++-
+ tiedosto2.txt | 1 +
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit d99f829d77d5cec7f39bd2f1cb4622dc5fc0385b
+Author: Lauri Rask <lauri.rask@outlook.com>
+Date:   Sat May 1 12:58:14 2021 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 1 +
+ 1 file changed, 1 insertion(+)

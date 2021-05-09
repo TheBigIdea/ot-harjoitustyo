@@ -1,0 +1,158 @@
+Folder PATH listing
+Volume serial number is 88FC-3731
+C:\USERS\LAURI\ONEDRIVE\TIEDOSTOT
+ÃÄÄÄCrane
+³   ÃÄÄÄKuvatemppi
+³   ÀÄÄÄOmat muistiinpanot
+ÃÄÄÄCSV testi
+ÃÄÄÄCustom Office Templates
+ÃÄÄÄDownloads
+ÃÄÄÄeBook Converter
+³   ÀÄÄÄePub DRM Removal
+ÃÄÄÄFax
+³   ÃÄÄÄDrafts
+³   ÀÄÄÄInbox
+ÃÄÄÄFeedbackHub
+³   ÀÄÄÄ{94ffaf92-9d79-4ab9-b9bd-3c0cd4e5945f}
+³       ÀÄÄÄ{94ffaf92-9d79-4ab9-b9bd-3c0cd4e5945f}_132601043481398508
+ÃÄÄÄFullstack
+³   ÃÄÄÄot-harjoitustyo
+³   ³   ÀÄÄÄlaskarit
+³   ³       ÀÄÄÄviikko1
+³   ÀÄÄÄViikko_1
+³       ÃÄÄÄstuff
+³       ÀÄÄÄtiedostoja
+ÃÄÄÄKoulu
+³   ÃÄÄÄ2021 kev„t ICT-alan sopimukset
+³   ³   ÀÄÄÄIT2018 sopimusehtokokoelma
+³   ÃÄÄÄ2021 kev„t tutkimus
+³   ÃÄÄÄPowershell
+³   ÃÄÄÄProjektijohtaminen
+³   ³   ÀÄÄÄVika teht„v„
+³   ÀÄÄÄRuotsi
+ÃÄÄÄk„ytt”ohje LG49UN7390
+ÃÄÄÄMy Data Sources
+ÃÄÄÄMy Digital Editions
+³   ÃÄÄÄAnnotations
+³   ÃÄÄÄManifest
+³   ÃÄÄÄTags
+³   ÀÄÄÄThumbnails
+ÃÄÄÄOutlook Files
+ÃÄÄÄRockstar Games
+³   ÃÄÄÄGTA V
+³   ³   ÃÄÄÄProfiles
+³   ³   ³   ÀÄÄÄF42EDFC5
+³   ³   ÀÄÄÄUser Music
+³   ÃÄÄÄLauncher
+³   ³   ÀÄÄÄProfiles
+³   ³       ÀÄÄÄF42EDFC5
+³   ÀÄÄÄSocial Club
+³       ÃÄÄÄCache
+³       ³   ÀÄÄÄImages
+³       ³       ÀÄÄÄAvatars
+³       ³           ÃÄÄÄ128x128
+³       ³           ³   ÀÄÄÄExclusives
+³       ³           ÃÄÄÄ32x32
+³       ³           ³   ÀÄÄÄExclusives
+³       ³           ÀÄÄÄExclusives
+³       ÃÄÄÄLauncher
+³       ³   ÀÄÄÄRenderer
+³       ³       ÃÄÄÄblob_storage
+³       ³       ³   ÀÄÄÄd1fb5a85-1b47-4092-86df-c98d00ed9600
+³       ³       ÃÄÄÄCache
+³       ³       ÃÄÄÄCode Cache
+³       ³       ³   ÀÄÄÄjs
+³       ³       ³       ÀÄÄÄindex-dir
+³       ³       ÃÄÄÄdatabases
+³       ³       ÃÄÄÄGPUCache
+³       ³       ÃÄÄÄLocal Storage
+³       ³       ³   ÀÄÄÄleveldb
+³       ³       ÀÄÄÄService Worker
+³       ³           ÃÄÄÄCacheStorage
+³       ³           ³   ÀÄÄÄ7c129e28a53a20755871f994f1997209760a9724
+³       ³           ³       ÀÄÄÄ2f78953a-984b-4dce-9c85-263606f4cafd
+³       ³           ³           ÀÄÄÄindex-dir
+³       ³           ÃÄÄÄDatabase
+³       ³           ÀÄÄÄScriptCache
+³       ³               ÀÄÄÄindex-dir
+³       ÃÄÄÄProfiles
+³       ³   ÀÄÄÄF42EDFC5
+³       ³       ÀÄÄÄTitles
+³       ³           ÃÄÄÄGTA V
+³       ³           ÀÄÄÄLauncher
+³       ÃÄÄÄRenderer
+³       ³   ÃÄÄÄblob_storage
+³       ³   ³   ÀÄÄÄe9aeb1b4-3be0-4ab0-b42e-abdbf5ad75ab
+³       ³   ÃÄÄÄCache
+³       ³   ÃÄÄÄCode Cache
+³       ³   ³   ÀÄÄÄjs
+³       ³   ³       ÀÄÄÄindex-dir
+³       ³   ÃÄÄÄGPUCache
+³       ³   ÀÄÄÄLocal Storage
+³       ³       ÀÄÄÄleveldb
+³       ÀÄÄÄTitles
+³           ÀÄÄÄGTA V
+ÃÄÄÄSaija
+ÃÄÄÄScanned Documents
+³   ÀÄÄÄDocuments
+ÃÄÄÄtesti
+ÃÄÄÄTuntilaskuri
+ÃÄÄÄTy”t
+³   ÃÄÄÄ001Paras CV
+³   ³   ÃÄÄÄCV myynti
+³   ³   ÃÄÄÄCV ravintola
+³   ³   ÃÄÄÄKassamagneetti 2021
+³   ³   ÃÄÄÄKPMG
+³   ³   ÃÄÄÄNew folder
+³   ³   ÀÄÄÄsoftice
+³   ÃÄÄÄ002 paras ty”hakemuspohja
+³   ³   ÀÄÄÄMyynti
+³   ÃÄÄÄBaari
+³   ³   ÃÄÄÄRoberts coffee
+³   ³   ÃÄÄÄTeatteri
+³   ³   ÀÄÄÄThe Riff
+³   ÃÄÄÄEng
+³   ³   ÀÄÄÄmusti ja mirri
+³   ÃÄÄÄHUS 2020
+³   ÃÄÄÄIT
+³   ³   ÃÄÄÄAcademy
+³   ³   ³   ÀÄÄÄData analyst
+³   ³   ÃÄÄÄAttendo
+³   ³   ÃÄÄÄBarona - tuntematon firma
+³   ³   ÃÄÄÄecrafters
+³   ³   ÃÄÄÄElisa
+³   ³   ÃÄÄÄFujitsu - Project People
+³   ³   ÃÄÄÄFujitsu Siemens
+³   ³   ÃÄÄÄFutureplay games
+³   ³   ÃÄÄÄGeomatic
+³   ³   ÃÄÄÄHelsingin yliopisto
+³   ³   ÃÄÄÄHus
+³   ³   ³   ÀÄÄÄSovellusasiantuntija 190000HE
+³   ³   ÃÄÄÄHuutokaupat_com
+³   ³   ÃÄÄÄinfocare
+³   ³   ÃÄÄÄKassamagneetti
+³   ³   ÃÄÄÄkoodipalvelu_com
+³   ³   ÃÄÄÄMediaconsult
+³   ³   ÃÄÄÄNexetic
+³   ³   ÃÄÄÄpoint - academic work
+³   ³   ÃÄÄÄPoolia junior testaaja
+³   ³   ÃÄÄÄSaranen consulting
+³   ³   ÀÄÄÄTelia Cygate
+³   ÃÄÄÄKassamagneetti
+³   ÃÄÄÄkoulun todistukset
+³   ÃÄÄÄmyynti
+³   ³   ÃÄÄÄAutolle_com
+³   ³   ÃÄÄÄFridays
+³   ³   ÃÄÄÄNiemi
+³   ³   ÃÄÄÄRainmaker someosaaja
+³   ³   ÃÄÄÄRed Bull
+³   ³   ÀÄÄÄTeliakauppa
+³   ÀÄÄÄTe-toimisto
+³       ÀÄÄÄpalkkakuitit
+ÃÄÄÄytk asiakirjat
+³   ÃÄÄÄIrtisanomisilmoitus
+³   ÀÄÄÄYTK lokakuu 2019
+ÃÄÄÄZoom
+³   ÃÄÄÄ2019-09-12 13.11.20 Lauri Rask's Personal Meeting Room 6531917767
+³   ÀÄÄÄ2019-09-12 13.14.57 Lauri Rask's Zoom Meeting 304319493
+ÀÄÄÄ„nitallenteet
